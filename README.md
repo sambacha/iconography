@@ -19,6 +19,14 @@
 
 > Minimal Icon Library for usage in ethereum projects
 
+## Quickstart
+
+🔗 https://www.npmjs.com/package/iconography
+
+```bash
+npm install -D iconography
+```
+
 ## Getting started
 
 1. Fork this repository
