@@ -1,0 +1,14 @@
+# Treat images as binary
+*.ico              binary
+*.png              binary
+*                  text=auto
+
+# SVGs are treated as binary by default
+*.svg              text
+
+# Don't diff machine generated files
+package-lock.json  -diff
+# image formats
+*.png diff=exif
+*.jpg diff=exif
+*.svg diff=exif
