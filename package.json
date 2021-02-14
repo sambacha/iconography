@@ -1,6 +1,6 @@
 {
   "name": "iconography",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Optimized  SVG Icon library",
   "main": "index.js",
   "sideEffects": false,
