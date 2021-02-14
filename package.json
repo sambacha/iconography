@@ -1,7 +1,7 @@
 {
-  "name": "REPLACE_ME",
+  "name": "iconography",
   "version": "1.0.0",
-  "description": "Starter project to build an SVG icon library",
+  "description": "Optimized  SVG Icon library",
   "main": "index.js",
   "sideEffects": false,
   "scripts": {
