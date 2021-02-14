@@ -1,11 +1,9 @@
-# svg-assets-performant
+#  `iconography`
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
-
-- [svg-icon-library-starter](#svg-icon-library-starter)
+- [Overview](#svg-icon-library-starter)
   - [Getting started](#getting-started)
   - [Delivering the icons](#delivering-the-icons)
   - [Consuming your icon library](#consuming-your-icon-library)
@@ -17,7 +15,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-> Minimal Icon Library for usage in ethereum projects
+> Performant and Optimized SVG/Icon Library with tree shaking - focused on web3 
+
 
 ## Quickstart
 
