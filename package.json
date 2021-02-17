@@ -36,6 +36,6 @@
     "npm-run-all": "4.1.5",
     "svg-to-ts": "6.0.0",
     "typescript": "4.1.5",
-    "webpack": "3.12.0"
+    "webpack": "5.22.0"
   }
 }
