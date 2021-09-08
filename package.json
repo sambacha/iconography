@@ -1,6 +1,6 @@
 {
   "name": "iconography",
-  "version": "0.0.0+0,
+  "version": "0.0.0+0",
   "description": "Optimized  SVG Icon library",
   "private": true,
   "sideEffects": false,
